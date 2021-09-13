@@ -22,7 +22,7 @@ drwxr-xr-x  2 root  4242   68 Sep 13 23:30 t02
 
 Now just start `clean.sh` script using `./` with number of tasks:
 ```
-./scriptclean.sh 10 # for example 10 tasks
+./clean.sh 10 # for example 10 tasks
 ```
 
 ## Important!
