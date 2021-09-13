@@ -26,4 +26,4 @@ Now just start `clean.sh` script using `./` with number of tasks:
 ```
 
 ## Important!
-Don't forget delete `cs` directory before upload your repository!
+Don't forget delete `clean.sh` file before upload your repository!
